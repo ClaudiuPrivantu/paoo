@@ -1,0 +1,1 @@
+add_library(Watch STATIC Watch.cpp)
